@@ -84,8 +84,7 @@ python -m pip install -r requirements-inference.txt
 
 ## Download the trained model
 
-Download `best.pt` from the **Releases** section of this GitHub repository.
-
+Download [`best.pt` (42.78 MB)](https://github.com/dhruvmahajan001/LeafLens-AI/releases/download/v1.0.0/best.pt) from the v1.0.0 release.
 Create the model directory if it does not exist:
 
 ```powershell
